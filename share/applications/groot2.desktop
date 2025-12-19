@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Groot2
+Exec=groot2
+Icon=groot2
+Comment=The Behavior Tree IDE
+Terminal=false
+Categories=Development;
+

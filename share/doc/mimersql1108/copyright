@@ -1,0 +1,34 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mimersql1108
+Upstream-Contact: Mimer Information Technology AB (info@mimer.com)
+Source: http://www.mimer.com
+
+Files: *
+Copyright: 1987-2024 Mimer Information Technology AB
+License: Mimer License (free for test)
+ THIS LEGAL DOCUMENT IS AN AGREEMENT BETWEEN YOU, THE END USER, AND MIMER INFORMATION TECHNOLOGY AB. BY INSTALLING THE SOFTWARE, YOU AGREE TO BECOME BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL THE SOFTWARE. 
+ .
+ In order to preserve and protect its rights under applicable laws, Mimer Information Technology AB does not sell any rights to the provided software or data. Mimer Information Technology AB grants the right to use the software by means of a non-exclusive SOFTWARE LICENSE, and specially retains title to all Mimer Information Technology AB computer software.
+ .
+ MIMER INFORMATION TECHNOLOGY AB SOFTWARE LICENSE
+ .
+ 1. GRANT OF LICENSE. In consideration of your agreement to abide by the terms and conditions of this LICENSE, Mimer Information Technology AB grants to you, the LICENSEE, a non-exclusive right to use and display this copy of a Mimer Information Technology AB software program (hereinafter the "SOFTWARE") provided that you comply with terms of the LICENSE. Mimer Information Technology AB reserves all rights not expressly granted to LICENSEE.
+ .
+ 2. OWNERSHIP OF SOFTWARE. As the LICENSEE, you own the magnetic or other physical media on which the SOFTWARE is originally or subsequently recorded of fixed, on the express conditions that Mimer Information Technology AB retains any and all title and ownership of the SOFTWARE recorded on the original disk copy(ies) and all subsequent copies of the SOFTWARE, regardless of the form or media in or on which the original and other copies may exist. This license is not a sale of the original SOFTWARE or any copy.
+ .
+ 3. COPY RESTRICTIONS. This SOFTWARE and the accompanying written materials are the subject of copyright. Unauthorized copying of the SOFTWARE, including SOFTWARE which has been modified, merged, or included with other software, or of the accompanying written materials is forbidden.
+ .
+ 4. USAGE RESTRICTIONS. As the LICENSEE, you may physically transfer the SOFTWARE from one computer to another provided that the SOFTWARE is installed and used on no more than the legal number of client workstation at a time at a single location. The legal number of licenses is specified in your purchase order. The usage of the free developer license of the SOFTWARE is restricted to evaluation, development and testing purposes. For deployment of applications developed with the free developer license of the SOFTWARE, a deployment license must be purchased by the LICENSEE. It is forbidden to distribute copies of the SOFTWARE or accompanying written materials to others. You may not modify, adapt, translate, reverse engineer, decompile, disassembly, or create derivative works based on the SOFTWARE.
+ .
+ 5. TRANSFER RESTRICTIONS. This SOFTWARE is licensed to the LICENSEE, and may not be transferred, assigned, rented, leased or otherwise disposed of without the prior written approval of Mimer Information Technology AB. Any such transfer of the SOFTWARE shall be bound by terms and conditions of this License.
+ .
+ 6. TERMINATION. Should you fail to provide with any provisions of this License,it will terminate automatically. Upon termination you agree to destroy the written materials and copies of the SOFTWARE, including modified copies, if any.
+ .
+ 7. LIMITATIONS OF LIABILITY. Neither Mimer Information Technology AB nor anyone else who has been involved in the creation, production or delivery of this product shall be liable for any direct, indirect, consequential or incidental damages (including damages for loss of business profits, business interruptions, loss of business information, and the like) arising out of the use or inability to use such product even if Mimer Information Technology AB has been advised of the possibility of such damages.
+ .
+ Should you have any questions, or if you want to contact Mimer Information Technology AB for any reason, please contact in writing: 
+ .
+ Mimer Information Technology AB
+ Väderkvarnsgatan 17A
+ SE-753 29 Uppsala
+ SWEDEN

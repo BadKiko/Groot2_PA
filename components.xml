@@ -1,0 +1,16 @@
+<Packages>
+    <ApplicationName>Groot2</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>com.aurynrobotics.groot2</Name>
+        <Title>Groot2</Title>
+        <Description>Install Groot2</Description>
+        <SortingPriority>0</SortingPriority>
+        <TreeName moveChildren="false"></TreeName>
+        <Version>1.6.1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2025-11-11</InstallDate>
+        <Size>305721206</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>

@@ -1,0 +1,13 @@
+# Игнорировать файлы больше 50 МБ
+*.so
+*.a
+maintenancetool
+maintenancetool.dat
+maintenancetool.ini
+installer.dat
+installerResources/
+bin/groot2
+bin/*.so
+lib/*.so*
+plugins/**/*.so
+translations/*.qm

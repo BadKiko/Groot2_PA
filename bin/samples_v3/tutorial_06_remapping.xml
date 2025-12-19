@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root BTCPP_format="3"
+      main_tree_to_execute="MoveWithRemapping">
+  <BehaviorTree ID="MoveSetResult">
+    <Fallback>
+      <Sequence>
+        <MoveBase goal="{target}"/>
+        <SetBlackboard   output_key="result" value="goal_reached" />
+      </Sequence>
+      <ForceFailure>
+        <SetBlackboard   output_key="result" value="error" />
+      </ForceFailure>
+    </Fallback>
+  </BehaviorTree>
+
+  <BehaviorTree ID="MoveWithRemapping">
+    <Sequence>
+      <SetBlackboard output_key="move_goal" value="-1;2;0.5" />
+      <SubTree ID="MoveSetResult"
+               result="{move_result}"
+               target="{move_goal}"/>
+      <SaySomething message="{move_result}"/>
+    </Sequence>
+  </BehaviorTree>
+
+  <!-- Description of Node Models (used by Groot) -->
+  <TreeNodesModel>
+    <Action ID="MoveBase"
+            editable="true">
+      <input_port name="goal"/>
+    </Action>
+    <Action ID="SaySomething"
+            editable="true">
+      <input_port name="message"/>
+    </Action>
+  </TreeNodesModel>
+
+</root>

@@ -1,0 +1,83 @@
+************************************* Invoked: Tue Nov 11 11:11:36 2025
+[0] Arguments: /home/kiko/Downloads/Groot2-v1.6.1-linux-installer.run
+[3] Operations sanity check succeeded.
+[4] Using metadata cache from "/home/kiko/.cache/qt-installer-framework/bd68dd8c-15d6-35d2-b760-9896c95d3749"
+[4] Found 0 cached items.
+[5] Language: ru-RU
+[1048] Получение информации о последнем обновлении
+[1053] Downloading 1 items to cache.
+[1053] Получение информации из внешнего хранилища...
+[1923] Получение метаданных из внешнего хранилища...
+[2723] Извлечение метаданных...
+[2726] Обновление локального кэша с добавлением 1 нового файла
+[2735] Загрузка скриптов компонента...
+[7583] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[7583] Warning: Numeric mode unsupported in the posix collation implementation
+[30471] Загрузка скриптов компонента...
+[32140] Выбранные компоненты без зависимостей:
+com.aurynrobotics.groot2
+[32141] Installation space required: "547.56 МБ" Temporary space required: "256.00 МБ" Local repository size: "0.00 байт(ов)"
+[32143] Cache and install directories are on the same volume. Volume mount point: "/" Free space available: "837.13 ГБ"
+[32707] backup  operation: Mkdir
+[32707] 	- arguments: /home/kiko/Apps/Groot2
+[32707] Done
+[32707] perform  operation: Mkdir
+[32707] 	- arguments: /home/kiko/Apps/Groot2
+[32707] Done
+[32707] Подготовка к установке...
+[32707] Install size: 1 components
+[32717] Подготовка к распаковке компонента...
+[32717] backup com.aurynrobotics.groot2 concurrent operation: Extract
+[32717] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1lib.7z, /home/kiko/Apps/Groot2
+[32717] Started
+[32717] backup com.aurynrobotics.groot2 concurrent operation: Extract
+[32717] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1share.7z, /home/kiko/Apps/Groot2
+[32717] Started
+[32718] backup com.aurynrobotics.groot2 concurrent operation: Extract
+[32718] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1translations.7z, /home/kiko/Apps/Groot2
+[32718] Started
+[32718] backup com.aurynrobotics.groot2 concurrent operation: Extract
+[32718] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1bin.7z, /home/kiko/Apps/Groot2
+[32718] Started
+[32718] backup com.aurynrobotics.groot2 concurrent operation: Extract
+[32718] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1plugins.7z, /home/kiko/Apps/Groot2
+[32718] Started
+[32720] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32721] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32721] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32722] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32723] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32723] Распаковка компонентов...
+[32723] perform com.aurynrobotics.groot2 concurrent operation: Extract
+[32723] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1bin.7z, /home/kiko/Apps/Groot2
+[32723] Started
+[32723] perform com.aurynrobotics.groot2 concurrent operation: Extract
+[32723] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1lib.7z, /home/kiko/Apps/Groot2
+[32723] Started
+[32723] perform com.aurynrobotics.groot2 concurrent operation: Extract
+[32723] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1plugins.7z, /home/kiko/Apps/Groot2
+[32723] Started
+[32724] perform com.aurynrobotics.groot2 concurrent operation: Extract
+[32724] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1translations.7z, /home/kiko/Apps/Groot2
+[32724] Started
+[32724] perform com.aurynrobotics.groot2 concurrent operation: Extract
+[32724] 	- arguments: installer://com.aurynrobotics.groot2/1.6.1share.7z, /home/kiko/Apps/Groot2
+[32724] Started
+[32754] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32778] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[32813] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[34119] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[34280] Warning: QString::arg: 1 argument(s) missing in 1 из %2 операции завершены
+[34280] Установка компонента Groot2
+[34281] backup com.aurynrobotics.groot2 operation: License
+[34281] 	- arguments:
+[34281] Done
+[34281] perform com.aurynrobotics.groot2 operation: License
+[34281] 	- arguments:
+[34281] Done
+[34282] Writing maintenance tool: "/home/kiko/Apps/Groot2/maintenancetool.new"
+[34282] Запись Maintenance Tool.
+[34332] Wrote permissions for maintenance tool.
+[34349] Maintenance tool hard restart: false.
+[34350] Установка завершена!
+[37128] starting "/home/kiko/Apps/Groot2/bin/groot2" QList()
