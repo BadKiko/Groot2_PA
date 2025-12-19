@@ -9,7 +9,7 @@ This is a cracked version of Groot2 with PRO mode unlocked.
 - ✅ Full functionality preserved
 
 ## Installation
-Simply run the installer and enjoy all PRO features for free!
+Simply download latest verion from releases and run bin/groot2
 
 ## Important Note
 ⚠️ **The source code doesn't contain all files due to their size (LFS - Large File Storage)**
